@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Thomas
 
-<!--
-**tesj/tesj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> I am the 2025 Software Development Student of the Year at Spartanburg Community College. I am set to graduate in December 2025, after which I will pursue a Bachelor's of Arts in Computer Information Systems at USC Upstate. </h3>
 
-Here are some ideas to get you started:
+## My Skills
+- C# 
+- Java
+- SQL
+- Python
+- HTML/CSS/JavaScript
+- Entity Framework
+- MVC ASP.NET
+- SQL SERVER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
