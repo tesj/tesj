@@ -17,4 +17,4 @@
 ### - <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
 ### - <a href="https://github.com/tesj/Bullet-Armageddon">Bullet Armageddon</a>
 
-##[My Resume](./speich-resume.pdf)
+## [My Resume](./Speich-Resume.pdf)
