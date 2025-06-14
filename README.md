@@ -19,4 +19,4 @@
 ### - Chaser's Pantry Website (in-progress)
 #### &nbsp;  - Built with C# ASP.NET MVC, Entity Framework Core, HTML, CSS, and JavaScript
 #### &nbsp;  - The repository is private at this time
-## [My Resume](./Speich-Resume.pdf)
+## [My Resume](./Thomas-Speich-Resume.pdf)
