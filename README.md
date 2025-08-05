@@ -12,6 +12,7 @@
 - Entity Framework
 - ASP.NET MVC
 - SQL Server
+- React (learning)
 
 ## My Projects
 ### - <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
