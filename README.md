@@ -17,7 +17,7 @@
 ## My Projects
 ### - <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
 ### - <a href="https://github.com/tesj/Bullet-Armageddon">Bullet Armageddon</a>
-### - Chaser's Pantry Website (in-progress)
+### - Chaser's Pantry Website
 #### &nbsp;  - Built with C# ASP.NET MVC, Entity Framework Core, HTML, CSS, and JavaScript
 #### &nbsp;  - The repository is private at this time
 ## [My Resume](./Thomas-Speich-Resume.pdf)
