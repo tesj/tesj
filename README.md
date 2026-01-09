@@ -21,3 +21,5 @@
 #### &nbsp;  - Built with C# ASP.NET MVC, Entity Framework Core, HTML, CSS, and JavaScript
 #### &nbsp;  - The repository is private at this time
 ## [My Resume](./Thomas-Speich-Resume.pdf)
+<br/><br/>
+[![Thomas Speich's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesj)](https://github.com/anuraghazra/github-readme-stats)
