@@ -11,7 +11,8 @@
 - Python
 - HTML/CSS/JavaScript
 - Entity Framework
-- ASP.NET MVC
+- ASP.NET
+- xUnit
 - SQL Server
 
 ## My Projects
