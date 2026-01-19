@@ -11,7 +11,7 @@
 - Python
 - HTML/CSS/JavaScript
 - Entity Framework
-- ASP.NET
+- ASP.NET Core
 - xUnit
 - SQL Server
 
