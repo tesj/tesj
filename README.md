@@ -15,6 +15,9 @@
 - xUnit
 - SQL Server
 
+[![Thomas' GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tesj&layout=pie&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=tesj&layout=pie&langs_count=5&theme=dark)
+###### *chart only includes public repositories
+
 ## My Projects
 ### - <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
 ### - <a href="https://github.com/tesj/Bullet-Armageddon">Bullet Armageddon</a>
