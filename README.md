@@ -15,6 +15,7 @@
 - ASP.NET Core
 - xUnit
 - SQL Server
+- DataWeave
 
 [![Thomas' GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tesj&layout=pie&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=tesj&layout=pie&langs_count=5&theme=dark)
 ###### *chart only includes public repositories
