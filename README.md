@@ -11,6 +11,8 @@
 - SQL
 - Python
 - HTML/CSS/JavaScript
+- Node.js
+- PHP
 - Entity Framework
 - ASP.NET Core
 - xUnit
