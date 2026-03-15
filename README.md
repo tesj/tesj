@@ -9,6 +9,7 @@
 - Java
 - Kotlin
 - SQL
+- MySQL
 - Python
 - HTML/CSS/JavaScript
 - Node.js
