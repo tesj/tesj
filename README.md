@@ -14,6 +14,7 @@
 - HTML/CSS/JavaScript
 - Node.js
 - PHP
+- RPG III/IV
 - Entity Framework
 - ASP.NET Core
 - xUnit
