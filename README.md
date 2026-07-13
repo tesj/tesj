@@ -1,6 +1,6 @@
 # Hi, I'm Thomas
 
-<h3> I am a Systems Development Engineer at Hamrick's. I graduated with an AAS in Software Development in December 2025, and I am pursuing a Bachelor's of Science in Computer Science at Western Governors University with an expected conferral date of March 1st, 2027. </h3>
+<h3> I am a Systems Development Engineer at Hamrick's. I graduated with an AAS in Software Development in December 2025, and I am pursuing a Bachelor's of Science in Computer Science at Western Governors University with an expected conferral date of December 31, 2026. </h3>
 
 ## My Skills
 - C#
