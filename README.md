@@ -30,7 +30,7 @@
 ### - <a href="https://github.com/tesj/Quiz-App-CPT-185-Final-Project-">Quiz App</a>
 ### - <a href="https://github.com/tesj/Bullet-Armageddon">Bullet Armageddon</a>
 ### - Product Information Pipeline (PIP)
-#### &nbsp; - Developed with C#, Python, Oracle SQL, and APEX RESTful API services
+#### &nbsp; - Developed with Python, Oracle SQL, and APEX RESTful API services
 #### &nbsp; - Implemented an automated product data integration pipeline between a modern ERP system and a legacy ERP system during a migration transition, reducing manual product and pricing data entry by more than 50%
 #### &nbsp; - Source code is proprietary and thus cannot be shared
 ### - Chaser's Pantry Website
