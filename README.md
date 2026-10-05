@@ -1,6 +1,6 @@
 # Hi, I'm Thomas
 
-<h3> I am a Systems Development Engineer at Hamrick's - which means I develop many things including: web apps, data pipelines, and utilities. I graduated with an AAS in Software Development in December 2025, and I am pursuing a Bachelor's of Science in Computer Science at Western Governors University with an expected conferral date of December 31, 2026. </h3>
+<h3> I am a Systems Development Engineer at Hamrick's - which means I develop many things including: web apps, data pipelines, and utilities. In this role, I own over 12 projects end-to-end, all of which are in production supporting key business functions such as price updates for our e-commerce platform. </h3>
 
 ## My Skills
 - C#
